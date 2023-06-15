@@ -1,0 +1,8 @@
+#Project Settings
+#Thu Nov 10 15:51:06 IST 2022
+CreatedDate=Wed Sep 07 10\:18\:11 IST 2022
+Description=
+ModifiedDate=Thu Nov 10 15\:51\:06 IST 2022
+Name=InvokingProj
+sharedWorkflowUsage=["D\:\\\\HughWS\\\\testgenFromSrv\\\\GenericWebGUI.psw\:;84","D\:\\\\HughWS\\\\testgenFromSrv\\\\GenericWebGUI.psw\:;84","D\:\\\\HughWS\\\\InvokingProj\\\\shared_workflows\\\\mdff\\\\testgen\\\\GetStockPrice.psw\:;84","D\:\\\\HughWS\\\\InvokingProj\\\\TestDBG.psw\:;84","D\:\\\\HughWS\\\\InvokingProj\\\\TestDBG.psw\:;84"]
+usedSharedWorkflows=[{"id"\:76,"name"\:"procsha","description"\:"testing proc","usageGuidelines"\:"to use this <h5> Just do it </h5>","groupName"\:"manyprocs","mainFile"\:"Process_1.psp","searchTags"\:["friends","mom","justice","break","24"],"createdDate"\:1662352312587,"lastUpdatedBy"\:4,"lastUpdatedDate"\:1662364308933},{"id"\:84,"name"\:"testgen","description"\:"new desc for test gen","usageGuidelines"\:"tread carefully","groupName"\:"mdff","mainFile"\:"GenericWebGUI.psw","searchTags"\:["do","re","me","fa","so","la","ti"],"createdDate"\:1662378586740,"lastUpdatedBy"\:4,"lastUpdatedDate"\:1662536398160}]
